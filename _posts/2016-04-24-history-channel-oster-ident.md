@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/160727182'
 inLanguage: null
 keywords: []
 description: Stonegg for HISTORY CHANNEL
-datePublished: '2016-04-24T07:56:44.617Z'
-dateModified: '2016-04-24T07:56:04.147Z'
+datePublished: '2016-04-24T11:24:22.872Z'
+dateModified: '2016-04-24T11:24:12.927Z'
 author:
   - name: Alpenblick
     url: 'http://vimeo.com/alpenblick'
