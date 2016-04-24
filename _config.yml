@@ -1,7 +1,5 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
+name: packrat
 opengraph:
   image: null
   type: null
@@ -20,7 +18,7 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.3207885
+  saturation: 0.2419355
   brandStrength: 0
   lightness: 0.4784946
   brandColors:
@@ -29,12 +27,14 @@ color:
     - '#686c77'
     - '#a49cab'
     - '#ad8645'
-  rhythmicContrast: 0.04301075
+  rhythmicContrast: 0
 typography_spectrum: 0.50109
-layout_spectrum: 0.6492
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: packrat
+layout_spectrum: 0.6492
