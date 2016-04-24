@@ -1,9 +1,7 @@
-favicon: null
 name: packrat
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.6492
+typography_spectrum: 0.76586
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2419355
-  brandStrength: 0.1487455
-  lightness: 0.5286738
   brandColors:
     - '#6E605D'
     - '#D9C2B0'
     - '#9C8072'
     - '#4971A6'
     - '#8597B6'
+  brandStrength: 0.1487455
+  lightness: 0.5286738
+  saturation: 0.2419355
   rhythmicContrast: 0.1003584
-typography_spectrum: 0.50109
-layout_spectrum: 0.6492
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
