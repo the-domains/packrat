@@ -21,8 +21,8 @@ color:
     - '#686c77'
     - '#a49cab'
     - '#ad8645'
-  brandStrength: 0.125
-  lightness: 0.4375
+  brandStrength: 0.5625
+  lightness: 0.5625
   saturation: 0.6875
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.75
 purpose: []
