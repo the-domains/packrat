@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/160727182'
 inLanguage: null
 keywords: []
 description: Stonegg for HISTORY CHANNEL
-datePublished: '2016-04-24T07:53:54.782Z'
-dateModified: '2016-04-24T07:53:38.731Z'
+datePublished: '2016-04-24T07:56:44.617Z'
+dateModified: '2016-04-24T07:56:04.147Z'
 author:
   - name: Alpenblick
     url: 'http://vimeo.com/alpenblick'
@@ -41,6 +41,8 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: HISTORY CHANNEL Oster Ident
+sourcePath: _posts/2016-04-24-history-channel-oster-ident.md
+published: true
 authors: []
 publisher:
   name: Vimeo
@@ -48,8 +50,6 @@ publisher:
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 starred: false
-sourcePath: _posts/2016-04-24-history-channel-oster-ident.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
