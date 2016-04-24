@@ -18,8 +18,8 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.09139785
-  brandStrength: 0.09856631
+  saturation: 0.2419355
+  brandStrength: 0.1487455
   lightness: 0.5286738
   brandColors:
     - '#6E605D'
@@ -30,11 +30,11 @@ color:
   rhythmicContrast: 0.1003584
 typography_spectrum: 0.50109
 layout_spectrum: 0.6492
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
